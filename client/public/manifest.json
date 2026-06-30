@@ -1,0 +1,16 @@
+{
+  "name": "Campus EV Tracker",
+  "short_name": "EV Tracker",
+  "description": "Live tracking for campus electric vehicles",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#22c55e",
+  "icons": [
+    {
+      "src": "/ev-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
